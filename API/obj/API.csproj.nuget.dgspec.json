@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lupoi\\Licenta2020\\Reactivities\\APi\\API.csproj": {}
+    "C:\\Users\\lupoi\\Licenta2020\\Reactivities\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lupoi\\Licenta2020\\Reactivities\\APi\\API.csproj": {
+    "C:\\Users\\lupoi\\Licenta2020\\Reactivities\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lupoi\\Licenta2020\\Reactivities\\APi\\API.csproj",
+        "projectUniqueName": "C:\\Users\\lupoi\\Licenta2020\\Reactivities\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\lupoi\\Licenta2020\\Reactivities\\APi\\API.csproj",
+        "projectPath": "C:\\Users\\lupoi\\Licenta2020\\Reactivities\\API\\API.csproj",
         "packagesPath": "C:\\Users\\lupoi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lupoi\\Licenta2020\\Reactivities\\APi\\obj\\",
+        "outputPath": "C:\\Users\\lupoi\\Licenta2020\\Reactivities\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
